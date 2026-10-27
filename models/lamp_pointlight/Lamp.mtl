@@ -1,0 +1,49 @@
+# Blender MTL File: 'Lamp_Final.blend'
+# Material Count: 4
+
+newmtl Bulb_Material
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Cable_Material
+Ns 0.090000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.749096 0.648813
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Lamp_Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump tex/Lamp_Normal.png
+map_Kd tex/Lamp_Color.png
+map_Ns tex/Lamp_Roughness.png
+refl tex/Lamp_Metallic.png
+
+newmtl Plug_Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tex/Plug_Color.png
+map_Ns tex/Plug_Roughness.png
+refl tex/Plug_Metallic.png

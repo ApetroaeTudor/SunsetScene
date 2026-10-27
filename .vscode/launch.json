@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug OpenGL (LLDB)",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/ProiectSPG", 
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "Build",
+            "stopOnEntry": false,
+            "terminal": "integrated"
+        }
+    ]
+}

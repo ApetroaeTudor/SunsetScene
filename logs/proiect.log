@@ -1,0 +1,22 @@
+[2026-05-16 16:45:25.567] [multi_sink] [info] Logger initialized!
+[2026-05-16 16:45:26.566] [multi_sink] [warning] [assimp_bridge::Model] Floor-Model No specular maps found in model
+[2026-05-16 16:45:26.841] [multi_sink] [warning] [assimp_bridge::Model] Table-Model No specular maps found in model
+[2026-05-16 16:45:26.929] [multi_sink] [warning] [assimp_bridge::Model] LampPointLight-Model No specular maps found in model
+[2026-05-16 16:45:26.929] [multi_sink] [warning] [assimp_bridge::Model] LampPointLight-Model No diffuse maps found in model
+[2026-05-16 16:45:26.929] [multi_sink] [warning] [assimp_bridge::Model] LampPointLight-Model No specular maps found in model
+[2026-05-16 16:45:26.929] [multi_sink] [warning] [assimp_bridge::Mesh] Empty textures array passed in constructor
+[2026-05-16 16:45:27.428] [multi_sink] [warning] [assimp_bridge::Model] LampPointLight-Model No specular maps found in model
+[2026-05-16 16:45:27.429] [multi_sink] [info] [assimp_bridge::Model] LampPointLight-Model Model loaded has no textures on channel 0
+[2026-05-16 16:45:27.430] [multi_sink] [warning] [assimp_bridge::Model] LampPointLight-Model No diffuse maps found in model
+[2026-05-16 16:45:27.430] [multi_sink] [warning] [assimp_bridge::Model] LampPointLight-Model No specular maps found in model
+[2026-05-16 16:45:27.430] [multi_sink] [warning] [assimp_bridge::Mesh] Empty textures array passed in constructor
+[2026-05-16 16:45:27.653] [multi_sink] [warning] [assimp_bridge::Model] Carpet-Model No specular maps found in model
+[2026-05-16 16:45:27.930] [multi_sink] [warning] [assimp_bridge::Model] Table2-Model No specular maps found in model
+[2026-05-16 16:45:28.353] [multi_sink] [warning] [assimp_bridge::Model] LampSpotlight-Model No specular maps found in model
+[2026-05-16 16:45:28.353] [multi_sink] [warning] [assimp_bridge::Model] LampSpotlight-Model No specular maps found in model
+[2026-05-16 16:45:28.743] [multi_sink] [warning] [assimp_bridge::Model] LampSpotlight-Model No specular maps found in model
+[2026-05-16 16:45:28.743] [multi_sink] [warning] [assimp_bridge::Model] LampSpotlight-Model No specular maps found in model
+[2026-05-16 16:45:28.785] [multi_sink] [warning] [assimp_bridge::Model] Ceiling-Model No specular maps found in model
+[2026-05-16 16:45:28.971] [multi_sink] [warning] [assimp_bridge::Model] BasicWall-Model No specular maps found in model
+[2026-05-16 16:45:29.163] [multi_sink] [warning] [assimp_bridge::Model] WallWindow-Model No specular maps found in model
+[2026-05-16 16:45:29.163] [multi_sink] [warning] [assimp_bridge::Model] WallWindow-Model No specular maps found in model
