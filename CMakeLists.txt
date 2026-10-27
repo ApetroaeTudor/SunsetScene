@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.26)
-project(ProiectSPG LANGUAGES CXX C)
+cmake_minimum_required(VERSION 3.22)
+project(SunsetScene LANGUAGES CXX C)
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
